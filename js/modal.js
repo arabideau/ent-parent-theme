@@ -1,0 +1,1 @@
+jQuery(function() { jQuery("#emailSuccess").modal({ containerCss:{height:160, width:350} }); })
